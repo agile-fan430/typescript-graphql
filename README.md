@@ -1,4 +1,4 @@
-# 🈚 typescript-graphql-api
+# typescript-graphql-api
 
 - Install dependencies: `npm i`
 - Create a Postgres database and set your credentials on a `.env` file, similar to `.env.example` (you can start a Postgres db with Docker by running `npm run get:pg` followed by `npm run start:pg`)
