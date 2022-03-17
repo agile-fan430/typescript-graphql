@@ -6,3 +6,6 @@ export const mutations = gql`
     createBet(userId: Int!, betAmount: Float!, chance: Float!): Bet!
   }
 `;
+
+
+test-dev
